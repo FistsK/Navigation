@@ -1,7 +1,8 @@
 # Navigation
 This is a global planner in ROS navigation package which is changed by myself
 # set up
-first   
+first
+
 put it in ~/catkin_ws/src directory
 
 ```
